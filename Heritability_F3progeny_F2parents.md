@@ -1,6 +1,6 @@
  EXAMPLE SAS PROGRAM #2 FOR ESTIMATING HERITABILITY AND ITS STANDARD ERROR
 
-Example SAS codes correspond to J.B. Holland, W.E. Nyquist, and C.T. Cervantes-Martinez, "Estimating and Interpreting Heritability in Plant Breeding: An Update" submitted to Plant Breeding Reviews.  Manuscript available on request: james_holland@ncsu.edu.
+Example SAS codes correspond to J.B. Holland, W.E. Nyquist, and C.T. Cervantes-Martinez, "Estimating and Interpreting Heritability in Plant Breeding: An Update" (2003) Plant Breeding Reviews.  
 
 Heritability based on variance among random S0:1 families from two different populations evaluated in a common multi-environment trial, with missing data.  
 
