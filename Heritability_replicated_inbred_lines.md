@@ -18,6 +18,6 @@ I have developed four different example programs, corresponding to estimating he
 
 2. [SAS code for estimating heritability from lines evaluated in an incomplete block (lattice) design in a single environment](OneEnvironLatticeHeritability.sas).   [Output from this analysis](OneEnvironLatticeHeritOut.lst).
 
-3. [SAS code for estimating heritbaility from lines evaluated in RCB designs in multiple environments](MultiEnvironRCBDHeritability.sas).  [Output from this analysis](MultiEnvironRCBDHeritOut.lst).
+3. [SAS code for estimating heritability from lines evaluated in RCB designs in multiple environments](MultiEnvironRCBDHeritability.sas).  [Output from this analysis](MultiEnvironRCBDHeritOut.lst).
 
 4. [SAS code for estimating heritability from lines evaluated in incomplete block (lattice) designs in multiple environments](MultiEnvironLatticeHeritability.sas).   [Output from this analysis](MultiEnvironLatticeHeritOut.lst).
