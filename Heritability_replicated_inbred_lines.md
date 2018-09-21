@@ -1,6 +1,6 @@
 
 EXAMPLE SAS PROGRAM #1 FOR ESTIMATING HERITABILITY AND ITS STANDARD ERROR
-Example SAS codes correspond to J.B. Holland, W.E. Nyquist, and C.T. Cervantes-Martinez, "Estimating and Interpreting Heritability in Plant Breeding: An Update," submitted to Plant Breeding Reviews.  Manuscript available on request: james_holland@ncsu.edu.
+Example SAS codes correspond to J.B. Holland, W.E. Nyquist, and C.T. Cervantes-Martinez, "Estimating and Interpreting Heritability in Plant Breeding: An Update," submitted to(2003) Plant Breeding Reviews.  
 
 Heritability based on variance among random S0:2 lines families evaluated in an unbalanced, multi-environment trial.  Options are given for estimating heritability from one environment or multiple environments, and from randomized complete block designs or incomplete block (lattice) designs within each environment.
 
