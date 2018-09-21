@@ -13,4 +13,4 @@ To perform the analysis you first need to download the data files :
 
 [Original data on a plot basis for all lines (including checks) is available in an Excel spreadsheet file](CornRustData.xls)
 
- 1. [SAS code for estimating heritability the two populations simultaneously](CornRustExample.sas)   [Output from this analysis](CornRustExampleOut.lst).
+ 1. [SAS code for estimating heritability the two populations simultaneously](CornRustExample.sas).   [Output from this analysis](CornRustExampleOut.lst).
