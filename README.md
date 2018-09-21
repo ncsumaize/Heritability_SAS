@@ -2,7 +2,7 @@
 SAS code to estimate heritability (possibly unbalanced designs) and its standard error from plant breeding experiments
 
 EXAMPLE SAS PROGRAMS FOR ESTIMATING HERITABILITY AND ITS STANDARD ERROR
-Example SAS codes correspond to J.B. Holland, W.E. Nyquist, and C.T. Cervantes-Martinez, "Estimating and Interpreting Heritability in Plant Breeding: An Update," submitted to Plant Breeding Reviews.  Manuscript available on request: james_holland@ncsu.edu.
+Example SAS codes correspond to J.B. Holland, W.E. Nyquist, and C.T. Cervantes-Martinez, "Estimating and Interpreting Heritability in Plant Breeding: An Update" (2003) Plant Breeding Reviews 22:9-164. 
 
 Choose from three different examples for heritability estimation using REML:
 
