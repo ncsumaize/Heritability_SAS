@@ -10,14 +10,14 @@ Briefly: yield was measured on 95 random S0:2 lines in five environments in Iowa
 
 To perform the analysis you first need to download the data files:
 
-Original data on a plot basis for all lines (including checks) is available in an Excel spreadsheet file .  To use the SAS code given, this spreadsheet must be open when running the SAS program!
+[Original data on a plot basis for all lines (including checks) is available in an Excel spreadsheet file](OatYield.xls). 
 
 I have developed four different example programs, corresponding to estimating heritability from different experimental designs:
 
-1. SAS code for estimating heritability from lines evaluated in an RCB design in a single environment.  Output from this analysis.
+1. [SAS code for estimating heritability from lines evaluated in an RCB design in a single environment](OneEnvironRCBDHeritability.sas).  Output from this analysis](MultiEnvironLatticeHeritability.sas).
 
-2. SAS code for estimating heritability from lines evaluated in an incomplete block (lattice) design in a single environment.   Output from this analysis.
+2. [SAS code for estimating heritability from lines evaluated in an incomplete block (lattice) design in a single environment](OneEnvironLatticeHeritability.sas).   Output from this analysis](OneEnvironLatticeHeritOut.lst).
 
-3. SAS code for estimating heritbaility from lines evaluated in RCB designs in multiple environments.  Output from this analysis.
+3. [SAS code for estimating heritbaility from lines evaluated in RCB designs in multiple environments](MultiEnvironRCBDHeritability.sas).  Output from this analysis](MultiEnvironRCBDHeritOut.lst).
 
-4. SAS code for estimating heritability from lines evaluated in incomplete block (lattice) designs in multiple environments.   Output from this analysis.
+4. [SAS code for estimating heritability from lines evaluated in incomplete block (lattice) designs in multiple environments](MultiEnvironLatticeHeritability.sas).   Output from this analysis](MultiEnvironLatticeHeritOut.lst).
